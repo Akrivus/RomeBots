@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 01a6673817037824980b61631d5b173c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 231069
+  packageName: CIVIL-AI-SYSTEM
+  packageVersion: 0.8.4
+  assetPath: Assets/TutorialInfo/Scripts/ClockDisplay.cs
+  uploadId: 725389

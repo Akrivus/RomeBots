@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cfe3f3b46da5314c81efe5fa3e1b95f, type: 3}
+  m_Name: Yehuda
+  m_EditorClassIdentifier: 
+  Title: Judas
+  Pronouns: he/him
+  Name: Yehuda
+  Aliases:
+  - Yehuda
+  Players: []
+  MapName: 
+  IsLegacy: 0
+  Voice: verse
+  ColorScheme: 
+  Costume: 
+  Prompt: {fileID: 4900000, guid: 562ed50c2e8c5f94c9371ba0fdece2fc, type: 3}
+  Prefab: {fileID: 5389243994161977659, guid: b88c3144f86a56c4ca37b0976eb957f5, type: 3}
+  SpeakingRate: 1
+  Pitch: 1
+  Volume: 1
+  Color: {r: 1, g: 1, b: 1, a: 0}
+  Color1: {r: 0, g: 0, b: 0, a: 0}
+  Color2: {r: 0, g: 0, b: 0, a: 0}
+  Color3: {r: 0, g: 0, b: 0, a: 0}
+  DefaultSentiment: {fileID: 11400000, guid: 880f895d53772a84bbf7caf782f83a6c, type: 2}
