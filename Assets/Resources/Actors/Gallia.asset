@@ -21,7 +21,7 @@ MonoBehaviour:
   Players: []
   MapName: 
   IsLegacy: 0
-  Voice: shimmer
+  Voice: ro-RO-Wavenet-B
   ColorScheme: 
   Costume: 
   Prompt: {fileID: 4900000, guid: dffb6b4519489f34c889f65ba9fb9a8b, type: 3}

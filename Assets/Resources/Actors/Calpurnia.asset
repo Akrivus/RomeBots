@@ -20,7 +20,7 @@ MonoBehaviour:
   Players: []
   MapName: 
   IsLegacy: 0
-  Voice: nova
+  Voice: en-GB-Wavenet-C
   ColorScheme: 
   Costume: 
   Prompt: {fileID: 4900000, guid: 2f58a6100bb212d418c2d806d2b023d2, type: 3}

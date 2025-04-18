@@ -24,7 +24,7 @@ MonoBehaviour:
   ColorScheme: 
   Costume: 
   Prompt: {fileID: 4900000, guid: c2406052bf8d0d64c9e47cfa4f965b5b, type: 3}
-  Prefab: {fileID: 5616683025889717146, guid: 1b63e160e9ec0da4ba05a6c174bbe136, type: 3}
+  Prefab: {fileID: 1978615906242104, guid: d509d1d0122337b4493c90b7eb62172b, type: 3}
   SpeakingRate: 1
   Pitch: 1
   Volume: 1

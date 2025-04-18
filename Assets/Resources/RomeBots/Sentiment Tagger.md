@@ -82,6 +82,6 @@ Your job is to **analyze a single line of dialogue** and determine:
 
 #### Reactions:
 
-Mithridates: Smug  
 Caesar: Angry  
-Mark Antony: Disgust
+Cleopatra: Smug  
+Marc Antony: Disgust

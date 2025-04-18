@@ -47,6 +47,6 @@ Senate / Gallery
 ```
 Location: Forum / North Steps
 Center: Pete
-Left 1: Mark Antony
+Left 1: Marc Antony
 Right 2: Livia
 ```

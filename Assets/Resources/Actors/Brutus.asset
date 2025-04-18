@@ -20,7 +20,7 @@ MonoBehaviour:
   Players: []
   MapName: 
   IsLegacy: 0
-  Voice: ballad
+  Voice: verse
   ColorScheme: 
   Costume: 
   Prompt: {fileID: 4900000, guid: 74d10b7a189fd754aa0a132c5a63f450, type: 3}
